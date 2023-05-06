@@ -5,4 +5,4 @@ threadsafe: true
 handlers:
 - url: /.*
 static_files: profil.html
-upload: index.html
+upload: profil.html
